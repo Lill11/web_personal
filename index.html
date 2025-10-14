@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lili Chen | QA & Software Engineer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="navbar container">
+        <div class="brand">
+          <span class="logo">LC</span>
+          <span class="brand-name" data-i18n-key="brandName">Lili Chen</span>
+        </div>
+        <button class="lang-toggle" id="langToggle" aria-label="Change language">
+          EN
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio">
+        <div class="container hero-content">
+          <div class="hero-text">
+            <h1 data-i18n-key="heroTitle">Lili Chen</h1>
+            <p class="hero-subtitle" data-i18n-key="heroSubtitle">
+              Ingeniera Informática especializada en QA y Desarrollo de Software
+            </p>
+            <p class="hero-description" data-i18n-key="heroDescription">
+              Diseño soluciones fiables, automatizo pruebas y garantizo que los
+              sistemas funcionen con la calidad que las personas esperan.
+            </p>
+            <div class="hero-actions">
+              <a class="btn primary" href="#sobre-mi" data-i18n-key="btnAbout">
+                Conóceme
+              </a>
+              <a class="btn secondary" href="CV_LILICHEN.pdf" download>
+                <span data-i18n-key="btnCV">Descargar CV</span>
+              </a>
+            </div>
+          </div>
+          <div class="hero-highlight">
+            <div class="highlight-card">
+              <p class="highlight-title" data-i18n-key="highlightTitle">
+                Lo que me mueve
+              </p>
+              <p data-i18n-key="highlightBody">
+                QA Engineer con experiencia en automatización, validación de
+                eSIM y desarrollo full-stack con Python, Java, Django y
+                JavaScript.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="sobre-mi">
+        <div class="container">
+          <h2 data-i18n-key="aboutTitle">Sobre mí</h2>
+          <p class="section-lead" data-i18n-key="aboutLead">
+            Ingeniera Informática con experiencia en QA, programación y bases de
+            datos. Me apasiona resolver problemas complejos, automatizar
+            procesos y colaborar con equipos multidisciplinares para construir
+            productos escalables.
+          </p>
+          <p data-i18n-key="aboutBody">
+            Me especializo en diseñar y ejecutar planes de pruebas end-to-end,
+            crear automatizaciones utilizando frameworks como TestNG y mantener
+            la calidad del software con métricas claras. Tengo una base sólida
+            en Python, Java y SQL, y disfruto aprendiendo nuevas tecnologías que
+            potencien los proyectos en los que participo.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" id="experiencia">
+        <div class="container">
+          <h2 data-i18n-key="experienceTitle">Experiencia</h2>
+          <article class="card">
+            <header class="card-header">
+              <h3>Valid Soluciones Tecnológicas S.A.</h3>
+              <span class="badge" data-i18n-key="experienceBadge">
+                Julio 2024 - Actual · Madrid
+              </span>
+            </header>
+            <p class="card-role" data-i18n-key="experienceRole">
+              QA Software Engineer Junior
+            </p>
+            <ul class="card-list">
+              <li data-i18n-key="experienceItem1">
+                Realizo pruebas funcionales y no funcionales para tarjetas eSIM,
+                cubriendo requisitos críticos de negocio.
+              </li>
+              <li data-i18n-key="experienceItem2">
+                Desarrollo automatizaciones con Java y TestNG para acelerar la
+                validación y detectar incidencias antes de producción.
+              </li>
+              <li data-i18n-key="experienceItem3">
+                Analizo fallos, documento resultados y colaboro con equipos
+                ágiles (Scrum/Kanban) para resolver incidencias usando JIRA.
+              </li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="proyectos">
+        <div class="container">
+          <h2 data-i18n-key="projectsTitle">Proyectos destacados</h2>
+          <div class="grid">
+            <article class="project-card">
+              <h3>Restaurante Sakura Ibi</h3>
+              <p data-i18n-key="project1Body">
+                Landing page responsive con menú digital, animaciones suaves y
+                experiencia fluida para reservas en línea.
+              </p>
+              <p class="project-tech" data-i18n-key="project1Tech">
+                Tecnologías: Next.js, Tailwind CSS, Vercel, Responsive Design
+              </p>
+              <a
+                class="project-link"
+                href="https://restaurante-sakura-ibi.vercel.app/"
+                target="_blank"
+                rel="noopener"
+                data-i18n-key="projectVisit"
+              >
+                Ver proyecto
+              </a>
+            </article>
+            <article class="project-card">
+              <h3>Restaurante Singapur</h3>
+              <p data-i18n-key="project2Body">
+                Sitio estático con secciones interactivas y navegación fluida
+                para presentar platos y promociones especiales.
+              </p>
+              <p class="project-tech" data-i18n-key="project2Tech">
+                Tecnologías: HTML, CSS, JavaScript, GitHub Pages
+              </p>
+              <a
+                class="project-link"
+                href="https://lill11.github.io/restaurante-singapur/#home"
+                target="_blank"
+                rel="noopener"
+                data-i18n-key="projectVisit"
+              >
+                Ver proyecto
+              </a>
+            </article>
+            <article class="project-card">
+              <h3>Kahoot Clone</h3>
+              <p data-i18n-key="project3Body">
+                Aplicación web con Django + Vue.js que permite crear y jugar
+                quizzes en tiempo real, integrando autenticación y tests
+                automatizados.
+              </p>
+              <p class="project-tech" data-i18n-key="project3Tech">
+                Tecnologías: Django, Vue.js, HTML, CSS, Pytest
+              </p>
+              <a
+                class="project-link"
+                href="#"
+                data-i18n-key="projectSoon"
+              >
+                Código disponible a petición
+              </a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="habilidades">
+        <div class="container">
+          <h2 data-i18n-key="skillsTitle">Habilidades técnicas</h2>
+          <div class="skill-grid">
+            <div class="skill-column">
+              <h3 data-i18n-key="skillsLanguages">Lenguajes</h3>
+              <ul>
+                <li>Python</li>
+                <li>Java</li>
+                <li>JavaScript/TypeScript</li>
+                <li>C, Kotlin, PHP, Bash, Prolog, CUDA</li>
+              </ul>
+            </div>
+            <div class="skill-column">
+              <h3 data-i18n-key="skillsWeb">Web & Frameworks</h3>
+              <ul>
+                <li>Django, Flask</li>
+                <li>Vue.js, React</li>
+                <li>HTML, CSS, jQuery</li>
+                <li>REST APIs</li>
+              </ul>
+            </div>
+            <div class="skill-column">
+              <h3 data-i18n-key="skillsData">Datos & DevOps</h3>
+              <ul>
+                <li>PostgreSQL, MongoDB</li>
+                <li>RabbitMQ, Kubernetes</li>
+                <li>Git, JIRA, VS Code</li>
+                <li>Linux & Windows</li>
+              </ul>
+            </div>
+            <div class="skill-column">
+              <h3 data-i18n-key="skillsSecurity">Redes & Ciberseguridad</h3>
+              <ul>
+                <li>TCP/IP, firewalls básicos</li>
+                <li>Kali Linux y análisis de vulnerabilidades</li>
+                <li>Wireshark y pruebas de penetración</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="formacion">
+        <div class="container">
+          <h2 data-i18n-key="educationTitle">Formación</h2>
+          <article class="card">
+            <header class="card-header">
+              <h3 data-i18n-key="educationDegree">
+                Grado en Ingeniería Informática
+              </h3>
+              <span class="badge" data-i18n-key="educationDates">
+                2020 - 2024
+              </span>
+            </header>
+            <p class="card-role">Universidad Autónoma de Madrid</p>
+            <p data-i18n-key="educationBody">
+              Especialización en Bases de Datos, Algoritmos, Redes,
+              Ciberseguridad, Ingeniería de Software e Inteligencia Artificial.
+              Nota media: 7.13.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="contacto">
+        <div class="container">
+          <h2 data-i18n-key="contactTitle">Contacto</h2>
+          <p data-i18n-key="contactLead">
+            ¿Quieres colaborar o saber más? Escríbeme y nos tomamos un café.
+          </p>
+          <div class="contact-grid">
+            <div>
+              <h3 data-i18n-key="contactPhone">Teléfono</h3>
+              <a href="tel:+34686708423">+34 686 708 423</a>
+            </div>
+            <div>
+              <h3>Email</h3>
+              <a href="mailto:lilichen577@gmail.com">lilichen577@gmail.com</a>
+            </div>
+            <div>
+              <h3>LinkedIn</h3>
+              <a
+                href="https://www.linkedin.com/in/lili-chen-qi"
+                target="_blank"
+                rel="noopener"
+              >
+                linkedin.com/in/lili-chen-qi
+              </a>
+            </div>
+            <div>
+              <h3 data-i18n-key="contactLanguages">Idiomas</h3>
+              <p data-i18n-key="contactLanguagesBody">
+                Español (Avanzado), Inglés (Intermedio alto), Chino (Nativo)
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <p data-i18n-key="footerText">
+          © 2024 Lili Chen · Abierta a oportunidades en QA, Desarrollo y Datos.
+        </p>
+      </div>
+    </footer>
+
+    <div class="cat-mascot" aria-hidden="true">
+      <img src="luoxiaohei_transparent.webp" alt="" />
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
