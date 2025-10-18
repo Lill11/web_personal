@@ -20,11 +20,15 @@ const translations = {
     experienceBadge: "Julio 2024 - Actual · Madrid",
     experienceRole: "QA Software Engineer Junior",
     experienceItem1:
-      "Realizo pruebas funcionales y no funcionales para tarjetas eSIM, cubriendo requisitos críticos de negocio.",
+      "Ejecuto pruebas funcionales, no funcionales e integrales para tarjetas eSIM/eUICC, asegurando el cumplimiento de los requisitos críticos de negocio.",
     experienceItem2:
-      "Desarrollo automatizaciones con Java y TestNG para acelerar la validación y detectar incidencias antes de producción.",
+      "Realizo validaciones de bajo nivel en entornos Java Card y applet testing, analizando trazas APDU y comportamientos internos del sistema.",
     experienceItem3:
-      "Analizo fallos, documento resultados y colaboro con equipos ágiles (Scrum/Kanban) para resolver incidencias usando JIRA.",
+      "Analizo fallos, documento resultados y colaboro con equipos ágiles (Scrum/Kanban) para resolver incidencias mediante JIRA y herramientas internas de seguimiento.",
+    experienceItem4:
+      "Efectúo pruebas manuales y de integración sobre distintos escenarios (SGP.22/23, MEP, REFRESH, etc.), reproduciendo comportamientos y verificando la conformidad con normas GSMA y ETSI.",
+    experienceItem5:
+      "Desarrollo automatizaciones con Java y TestNG para optimizar la validación y detectar incidencias antes de producción.",
     projectsTitle: "Proyectos destacados",
     project1Body:
       "Landing page responsive con menú digital, animaciones suaves y experiencia fluida para reservas en línea.",
@@ -81,11 +85,15 @@ const translations = {
     experienceBadge: "July 2024 - Present · Madrid",
     experienceRole: "Junior QA Software Engineer",
     experienceItem1:
-      "Run functional and non-functional testing for eSIM cards, covering business-critical requirements.",
+      "Run functional, non-functional, and end-to-end testing for eSIM/eUICC cards to meet business-critical requirements.",
     experienceItem2:
-      "Develop automation with Java and TestNG to speed up validation and detect incidents before production.",
+      "Perform low-level validations in Java Card environments and applet testing, analyzing APDU traces and internal behavior.",
     experienceItem3:
-      "Investigate issues, document results, and collaborate with agile squads (Scrum/Kanban) to resolve incidents using JIRA.",
+      "Investigate failures, document outcomes, and partner with agile squads (Scrum/Kanban) to resolve incidents using JIRA and in-house tooling.",
+    experienceItem4:
+      "Execute manual and integration tests across scenarios such as SGP.22/23, MEP, and REFRESH, verifying alignment with GSMA and ETSI standards.",
+    experienceItem5:
+      "Build automation with Java and TestNG to streamline validation and surface issues before production.",
     projectsTitle: "Featured projects",
     project1Body:
       "Responsive landing page with digital menu, smooth animations, and a clear reservation experience.",
