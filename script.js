@@ -54,6 +54,24 @@ const translations = {
     educationDates: "2020 - 2024",
     educationBody:
       "Especialización en Bases de Datos, Algoritmos, Redes, Ciberseguridad, Ingeniería de Software e Inteligencia Artificial. Nota media: 7.13.",
+    educationCertTitle: "Certificación Udemy · Playwright QA con Python",
+    educationCertDate: "2024",
+    educationCertPlatform: "Udemy · Rahul Shetty Academy",
+    educationCertItem1:
+      "Base sólida en fundamentos de Python con ejercicios prácticos y tareas.",
+    educationCertItem2:
+      "Automatización web con Playwright y ejemplos reales de proyectos.",
+    educationCertItem3:
+      "Familiarización con pruebas de API y captura de tráfico en Playwright.",
+    educationCertItem4:
+      "Testing visual, emulación móvil y ejecución en contenedores Docker para CI/CD.",
+    educationCertItem5:
+      "Uso avanzado de Pytest desde cero para frameworks de automatización.",
+    educationCertItem6:
+      "Manejo de Playwright Inspector, Trace Viewer y Codegen para depurar y grabar flujos.",
+    educationCertItem7:
+      "Diseño end-to-end de frameworks con Pytest y enfoque BDD listo para producción.",
+    educationCertLink: "Ver certificado",
     contactTitle: "Contacto",
     contactLead:
       "¿Quieres colaborar o saber más? Escríbeme y nos tomamos un café.",
@@ -119,6 +137,24 @@ const translations = {
     educationDates: "2020 - 2024",
     educationBody:
       "Focused on Databases, Algorithms, Networks, Cybersecurity, Software Engineering, and Artificial Intelligence. GPA: 7.13/10.",
+    educationCertTitle: "Udemy Certification · Playwright QA with Python",
+    educationCertDate: "2024",
+    educationCertPlatform: "Udemy · Rahul Shetty Academy",
+    educationCertItem1:
+      "Strong foundation in Python programming basics through exercises and assignments.",
+    educationCertItem2:
+      "In-depth understanding of Playwright web automation with real-world examples.",
+    educationCertItem3:
+      "Hands-on API testing and network interception using Playwright.",
+    educationCertItem4:
+      "Visual testing, mobile emulation, and CI/CD execution inside Docker containers.",
+    educationCertItem5:
+      "Comprehensive grasp of Pytest automation capabilities built from scratch.",
+    educationCertItem6:
+      "Fluent with Playwright Inspector, Trace Viewer, and Codegen for debugging and recording.",
+    educationCertItem7:
+      "End-to-end framework design with Pytest and BDD practices ready for production.",
+    educationCertLink: "View certificate",
     contactTitle: "Get in touch",
     contactLead:
       "Want to collaborate or learn more? Drop me a message and let's grab a coffee.",
