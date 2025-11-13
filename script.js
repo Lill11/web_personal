@@ -17,7 +17,8 @@ const translations = {
     aboutBody:
       "Me especializo en diseñar y ejecutar planes de pruebas end-to-end, crear automatizaciones utilizando frameworks como TestNG y mantener la calidad del software con métricas claras. Tengo una base sólida en Python, Java y SQL, y disfruto aprendiendo nuevas tecnologías que potencien los proyectos en los que participo.",
     experienceTitle: "Experiencia",
-    experienceBadge: "Julio 2024 - Actual · Madrid",
+    experienceBadge:
+      "Julio 2024 - Actual · Madrid (Remoto la mayor parte del tiempo)",
     experienceRole: "QA Software Engineer Junior",
     experienceItem1:
       "Ejecuto pruebas funcionales, no funcionales e integrales para tarjetas eSIM/eUICC, asegurando el cumplimiento de los requisitos críticos de negocio.",
@@ -55,7 +56,7 @@ const translations = {
     educationBody:
       "Especialización en Bases de Datos, Algoritmos, Redes, Ciberseguridad, Ingeniería de Software e Inteligencia Artificial. Nota media: 7.13.",
     educationCertTitle: "Certificación Udemy · Playwright QA con Python",
-    educationCertDate: "2024",
+    educationCertDate: "2025",
     educationCertPlatform: "Udemy · Rahul Shetty Academy",
     educationCertItem1:
       "Base sólida en fundamentos de Python con ejercicios prácticos y tareas.",
@@ -72,9 +73,24 @@ const translations = {
     educationCertItem7:
       "Diseño end-to-end de frameworks con Pytest y enfoque BDD listo para producción.",
     educationCertLink: "Ver certificado",
+    educationOCITitle:
+      "Certificación Oracle Cloud Infrastructure Foundations",
+    educationOCIDate: "2025",
+    educationOCIPlatform:
+      "Oracle University · Oracle Cloud Infrastructure",
+    educationOCIItem1:
+      "Fundamentos de la nube, regiones OCI y modelo de responsabilidad compartida.",
+    educationOCIItem2:
+      "Diseño de redes virtuales, balanceo de carga y conectividad híbrida segura.",
+    educationOCIItem3:
+      "Servicios de almacenamiento de objetos, bloque y base de datos con planes de backup.",
+    educationOCIItem4:
+      "Seguridad, IAM, monitoreo y mejores prácticas operativas en OCI.",
+    educationOCICertificateLink: "Descargar eCertificate",
+    educationOCIShareLink: "Ver badge oficial",
     contactTitle: "Contacto",
     contactLead:
-      "¿Quieres colaborar o saber más? Escríbeme y nos tomamos un café.",
+      "¿Quieres colaborar o saber más? Escríbeme!",
     contactPhone: "Teléfono",
     contactLanguages: "Idiomas",
     contactLanguagesBody:
@@ -90,7 +106,7 @@ const translations = {
     heroDescription:
       "I build reliable solutions, automate testing, and make sure systems deliver the quality people expect.",
     btnAbout: "About me",
-    btnCV: "Download résumé",
+    btnCV: "Download resume",
     highlightTitle: "What drives me",
     highlightBody:
       "QA Engineer experienced in automation, eSIM validation, and full-stack development with Python, Java, Django, and JavaScript.",
@@ -100,7 +116,8 @@ const translations = {
     aboutBody:
       "I design and execute end-to-end test plans, build automation using frameworks like TestNG, and keep software quality measurable. I have a strong foundation in Python, Java, and SQL, and I enjoy learning technologies that level up every project I join.",
     experienceTitle: "Experience",
-    experienceBadge: "July 2024 - Present · Madrid",
+    experienceBadge:
+      "July 2024 - Present · Madrid (Remote most of the time)",
     experienceRole: "Junior QA Software Engineer",
     experienceItem1:
       "Run functional, non-functional, and end-to-end testing for eSIM/eUICC cards to meet business-critical requirements.",
@@ -138,7 +155,7 @@ const translations = {
     educationBody:
       "Focused on Databases, Algorithms, Networks, Cybersecurity, Software Engineering, and Artificial Intelligence. GPA: 7.13/10.",
     educationCertTitle: "Udemy Certification · Playwright QA with Python",
-    educationCertDate: "2024",
+    educationCertDate: "2025",
     educationCertPlatform: "Udemy · Rahul Shetty Academy",
     educationCertItem1:
       "Strong foundation in Python programming basics through exercises and assignments.",
@@ -155,15 +172,30 @@ const translations = {
     educationCertItem7:
       "End-to-end framework design with Pytest and BDD practices ready for production.",
     educationCertLink: "View certificate",
+    educationOCITitle:
+      "Oracle Cloud Infrastructure Foundations Certification",
+    educationOCIDate: "2025",
+    educationOCIPlatform:
+      "Oracle University · Oracle Cloud Infrastructure",
+    educationOCIItem1:
+      "Cloud fundamentals, OCI regions, and the shared responsibility model.",
+    educationOCIItem2:
+      "Designing virtual cloud networks, load balancing, and secure hybrid connectivity.",
+    educationOCIItem3:
+      "Managing object, block, and database storage services with backup strategies.",
+    educationOCIItem4:
+      "Security, IAM, monitoring, and operational best practices in OCI.",
+    educationOCICertificateLink: "Download eCertificate",
+    educationOCIShareLink: "View official badge",
     contactTitle: "Get in touch",
     contactLead:
-      "Want to collaborate or learn more? Drop me a message and let's grab a coffee.",
+      "Want to collaborate or learn more? Drop me a message!",
     contactPhone: "Phone",
     contactLanguages: "Languages",
     contactLanguagesBody:
       "Spanish (Advanced), English (Upper-intermediate), Chinese (Native)",
     footerText:
-      "© 2024 Lili Chen · Open to opportunities in QA, Software, and Data.",
+      "© 2025 Lili Chen · Open to opportunities in QA, Software, and Data.",
   },
 };
 
