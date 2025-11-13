@@ -65,7 +65,7 @@ const translations = {
     educationCertItem3:
       "Familiarización con pruebas de API y captura de tráfico en Playwright.",
     educationCertItem4:
-      "Testing visual, emulación móvil y ejecución en contenedores Docker para CI/CD.",
+      "Testing visual y ejecución de pipelines CI/CD en Jenkins.",
     educationCertItem5:
       "Uso avanzado de Pytest desde cero para frameworks de automatización.",
     educationCertItem6:
@@ -164,7 +164,7 @@ const translations = {
     educationCertItem3:
       "Hands-on API testing and network interception using Playwright.",
     educationCertItem4:
-      "Visual testing, mobile emulation, and CI/CD execution inside Docker containers.",
+      "Visual testing and CI/CD pipelines orchestrated with Jenkins.",
     educationCertItem5:
       "Comprehensive grasp of Pytest automation capabilities built from scratch.",
     educationCertItem6:
