@@ -238,7 +238,7 @@ const i18nElements = document.querySelectorAll("[data-i18n-key]");
 
 const storedLang =
   typeof window !== "undefined" ? window.localStorage.getItem("lang") : null;
-let currentLang = storedLang === "en" ? "en" : "es";
+let currentLang = storedLang === "es" ? "es" : "en";
 
 function applyLanguage(lang) {
   const messages = translations[lang];
