@@ -73,6 +73,23 @@ const translations = {
     educationCertItem7:
       "Diseño end-to-end de frameworks con Pytest y enfoque BDD listo para producción.",
     educationCertLink: "Ver certificado",
+    educationPostmanTitle: "Certificación Postman API Tester",
+    educationPostmanDate: "2025",
+    educationPostmanOrg: "Postman · Student Expert Program",
+    educationPostmanIntro: "Certificación práctica que enseña:",
+    educationPostmanItem1:
+      "Qué son las APIs y por qué son clave en el desarrollo moderno.",
+    educationPostmanItem2:
+      "Cómo usar Postman para trabajar con APIs.",
+    educationPostmanItem3:
+      "Construir solicitudes GET, POST, PATCH y DELETE.",
+    educationPostmanItem4:
+      "Parámetros de consulta, cuerpos, cabeceras y códigos de respuesta.",
+    educationPostmanItem5: "Scripting básico.",
+    educationPostmanItem6: "Autorización con API Keys.",
+    educationPostmanItem7:
+      "Cómo utilizar APIs dentro de tus aplicaciones.",
+    educationPostmanLink: "Ver insignia",
     educationOCITitle:
       "Certificación Oracle Cloud Infrastructure Foundations",
     educationOCIDate: "2025",
@@ -172,6 +189,22 @@ const translations = {
     educationCertItem7:
       "End-to-end framework design with Pytest and BDD practices ready for production.",
     educationCertLink: "View certificate",
+    educationPostmanTitle: "Postman API Tester Certification",
+    educationPostmanDate: "2025",
+    educationPostmanOrg: "Postman · Student Expert Program",
+    educationPostmanIntro: "Hands-on certification covering:",
+    educationPostmanItem1:
+      "What APIs are and why they matter in modern software development.",
+    educationPostmanItem2: "How to use Postman to work with APIs.",
+    educationPostmanItem3:
+      "Making GET, POST, PATCH, and DELETE requests.",
+    educationPostmanItem4:
+      "Query parameters, bodies, headers, and response codes.",
+    educationPostmanItem5: "Basic scripting.",
+    educationPostmanItem6: "API Key authorization.",
+    educationPostmanItem7:
+      "How to leverage APIs inside your applications.",
+    educationPostmanLink: "View badge",
     educationOCITitle:
       "Oracle Cloud Infrastructure Foundations Certification",
     educationOCIDate: "2025",
